@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ImplicitIntentKotlin</string>
+    <string name="camera_access">Camera Access</string>
+    <string name="call_phone">Call Phone</string>
+    <string name="show_map">Show Map</string>
+    <string name="send_email">Send E-Mail</string>
+    <string name="search_web">Search/Send WebSite</string>
+    <string name="go_to_camera">Go to Camera</string>
+    <string name="enter_number">Number Enter</string>
+    <string name="call_number">Call</string>
+    <string name="enter_mail">Mail Enter</string>
+    <string name="go_to_map">Go to Map</string>
+    <string name="Latitude">Latitude: </string>
+    <string name="Longitude">Longitude: </string>
+    <string name="enter_address">Web Address Enter</string>
+    <string name="share_address">Share Address</string>
+    <string name="subject_enter">Subject Enter</string>
+    <string name="text_enter">Text Enter</string>
+    <string name="send_address">SEND ADDRESS</string>
+</resources>
