@@ -13,7 +13,7 @@
     <string name="Latitude">Latitude: </string>
     <string name="Longitude">Longitude: </string>
     <string name="enter_address">Web Address Enter</string>
-    <string name="share_address">Share Address</string>
+    <string name="go_to_address">Go To Address</string>
     <string name="subject_enter">Subject Enter</string>
     <string name="text_enter">Text Enter</string>
     <string name="send_address">SEND ADDRESS</string>
