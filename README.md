@@ -19,7 +19,7 @@ Uygulamada,
 
 <img src = "https://user-images.githubusercontent.com/57728209/153861641-b2c65be3-90e8-488e-9721-d205a8a68a36.png" width = "200" />
 
-<img src = "https://user-images.githubusercontent.com/57728209/154058841-63860700-4bbb-43e9-9e12-9bedf2e47c1c.png" width = "200" /> <img src = "https://user-images.githubusercontent.com/57728209/153861774-dc89914f-4ddd-4196-aadc-05b8c3490926.png" width = "200" />
+<img src = "https://user-images.githubusercontent.com/57728209/154059191-96d8f97a-3231-4a9e-ad15-c75bdbc0f7bd.png" width = "200" /> <img src = "https://user-images.githubusercontent.com/57728209/153861774-dc89914f-4ddd-4196-aadc-05b8c3490926.png" width = "200" />
 
 <img src = "https://user-images.githubusercontent.com/57728209/153861825-9a095256-bdd4-4bdb-b40b-73ad71d00fb5.png" width = "200" /> <img src = "https://user-images.githubusercontent.com/57728209/153861864-e51754c0-740c-445b-b1f8-9942d05d2740.png" width = "200" />  
 
